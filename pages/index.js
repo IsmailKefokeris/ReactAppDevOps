@@ -13,14 +13,6 @@ export default function Home() {
                 <link rel="icon" href="/favicon.ico" />
             </Head>
 
-            <div className=" w-screen h-auto bg-white p-3">
-                <Image
-                    src="/../public/img/logo.png"
-                    alt="Logo"
-                    height={46}
-                    width={102}
-                />
-            </div>
         </div>
     );
 }
